@@ -13,4 +13,4 @@ Also, if there are duplicate User Ids for the same Insurance Company, then only 
 
 Data points names are adjustable and could be easily changed by a developer (_lines 11-15_ of **index.js**).
 
-There is a test csv file in the directory for depo purposes (**file.csv**).
+There is a test csv file in the directory for demo purposes (**file.csv**).
